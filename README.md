@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mrphilz
 - 👀 I’m interested in ...Data Analytic/Analysis
-- 🌱 I’m currently learning ...Postgre SQL,POWER Bi,Excel and Python. Infact I have good Knowkedge of the first 3.
+- 🌱 I’m proficient in in SQL, I can clean data,identify inconsistencies,join tables,write subqueries, visualize data using power BI.
+-  I equally know how to optimize my queries to ensure good response time and lower memory usage
 - 💞️ I’m looking to collaborate on ...Data Analytics Projects
 - 📫 How to reach me ...Philipsogbaje@gmail.com
 <!---
